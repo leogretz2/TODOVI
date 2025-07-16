@@ -18,3 +18,7 @@ Ideas for app:
 --use cursor control to add commands to code each line (yellow/orange/red/blue/green/purple/pink)
 -Like Excel where commit cell
 -Sort each day by time (untimed float to top [unless moved?])
+-different pages of app
+--TODO list
+--$$$$ - queries Robinhood API, potentially scrapes Chase (login)
+--Books/Media
