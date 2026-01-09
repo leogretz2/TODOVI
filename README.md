@@ -24,3 +24,4 @@ Commands for status, highlight.
 --$ - queries Robinhood API, potentially scrapes Chase (login)<br>
 --Books/Media<br>
 --Prompt builder that displays markdown<br>
+-Make a CLI for alternative interaction
