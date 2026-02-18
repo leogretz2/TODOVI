@@ -25,3 +25,4 @@ Commands for status, highlight.
 --Books/Media<br>
 --Prompt builder that displays markdown<br>
 -Make a CLI for alternative interaction
+-Make a Google Docs clone to port current data over, enhance from there
