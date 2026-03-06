@@ -22,3 +22,7 @@ Ideas for app:
 --TODO list
 --$$$$ - queries Robinhood API, potentially scrapes Chase (login)
 --Books/Media
+-Tangible next step: build Google Docs clone (make a plan)
+--load all data into database
+--deploy on Vercel
+--edit from there (add commands)
